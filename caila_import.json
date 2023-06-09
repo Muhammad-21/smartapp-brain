@@ -16,7 +16,7 @@
     "business" : false
   },
   "intents" : [ {
-    "id" : 600228,
+    "id" : 600720,
     "path" : "/пока",
     "enabled" : true,
     "businessShared" : false,
@@ -25,7 +25,7 @@
       "text" : "пока"
     } ]
   }, {
-    "id" : 600229,
+    "id" : 600721,
     "path" : "/привет",
     "enabled" : true,
     "businessShared" : false,
