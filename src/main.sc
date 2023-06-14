@@ -4,6 +4,8 @@ theme: /
 
     state: Start
         q!: $regex</start>
+        script:
+            $request.rawRequest.payload.character.id = "sber"
         a: Давайте начнём.
 
     state: Приветствие
